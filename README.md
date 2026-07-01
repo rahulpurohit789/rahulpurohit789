@@ -1,31 +1,65 @@
-<h1 align="center">Hi 👋, I'm Virendrasingh Rajpurohit</h1>
-<h3 align="center">A passionate Software developer and a Freelancer</h3>
+# Virendrasingh Rajpurohit
 
-- 🔭 I’m currently working on [Supriyapa](www.supriyapa.com)
+### Full-Stack Engineer & AI Product Builder
 
-- 🌱 I’m currently learning **Functional Programming, LLMs (LangChain, Hugging Face), and Distributed Systems for blazing-fast backend APIs 🚀**
+> I build AI products from blank page to production, then keep them alive at scale.
 
-- 👯 I’m looking to collaborate on **- Open-source AI/ML tools (especially LLM-powered apps)**
+I lead a 10-engineer team at a Japan-based startup, taking AI products from idea to production and working directly with founders on architecture, delivery, and the hard debugging. I am AI-native: I design the systems, use AI to move fast, and I am strongest at debugging the places where AI-generated output breaks.
 
-- 🤝 I’m looking for help with **- Optimizing large-scale distributed systems**
+Currently open to remote roles with US startups.
 
-- 👨‍💻 All of my projects are available at [https://virendrasingh-rajpurohit1.vercel.app/](https://virendrasingh-rajpurohit1.vercel.app/)
+---
 
-- 💬 Ask me about **- 🧠 Backend Development (Express.js, System Design, APIs) - 🤖 AI/ML Projects (LangChain, Hugging Face, LLaMA) - 🧩 Functional Programming & Stateless Architecture - 🧾 Building SQL from Natural Language (QueryGenie) - 🛒 Real-time AI Tools like ConsumeWise (Nutrition Insights via Barcode) - 🛠️ Firebase, Docker, Cloudinary Integrations**
+## What I am building
 
-- 📫 How to reach me **virendrasingh052004@gmail.com**
+**[Bitzaurus](https://bitzaurus.com)** — AI prediction-market platform
+Reads real-world news and automatically turns it into live, tradable prediction markets. I built the core engine: a 7-stage LLM + RAG pipeline (ingestion, reasoning, asset mapping, market creation), a "Black Box Engine" that runs it autonomously, and IBM Quantum (QAOA) for asset-basket selection. Contributed to a $1M+ raise.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rqTnUHWBS52J3bnInwMlShPCqC3ZK32A/view?usp=sharing](https://drive.google.com/file/d/1rqTnUHWBS52J3bnInwMlShPCqC3ZK32A/view?usp=sharing)
+**[Reverse](https://www.reversetcg.xyz)** — Blockchain gaming platform
+Designed the reward and profitability algorithms and the backend systems for rarity allocation and reward generation.
 
-- ⚡ Fun fact **I built an AI that can read your snack’s barcode and tell you whether it loves your diet or wants to report you to your nutritionist! 🍫➡️📉 (Check out ConsumeWise in my repos 😉)**
+**Umito** — Real-estate marketplace (prototype)
+Built booking, listing, and marketplace systems, frontend and backend.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/virendrasingh-rajpurohit-109b21258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virendrasingh-rajpurohit-109b21258/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rahulpurohitrp71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulpurohitrp71" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/virendra2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="virendra2005" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rahulpuroh5mcd/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahulpuroh5mcd/profile" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Tech
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Also:** RAG systems, AI agents, IBM Quantum (QAOA), Web3, system design, distributed systems.
+
+---
+
+## A bit about me
+
+- Team Lead at Sector 7 (WeSee), Japan (remote)
+- B.E. Information Technology, University of Mumbai, 2026
+- Adobe Hackathon: Top 0.43% of participants (2025)
+- Tata Imagination Challenge: reached Round 3 (2024)
+- Went from fresh graduate to leading engineers with more experience than me, in under a year.
+
+---
+
+## Connect
+
+- Email: virendrasingh052004@gmail.com
+- LinkedIn: [linkedin.com/in/virendrasingh-rajpurohit](https://www.linkedin.com/in/virendrasingh-rajpurohit-109b21258)
+- Live work: [bitzaurus.com](https://bitzaurus.com)
+
+---
+
+<!-- Optional GitHub stats. Remove if your public activity is light. -->
+![Stats](https://github-readme-stats.vercel.app/api?username=rahulpurohit789&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpurohit789&layout=compact&hide_border=true)
