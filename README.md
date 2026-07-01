@@ -57,9 +57,3 @@ Built booking, listing, and marketplace systems, frontend and backend.
 - Email: virendrasingh052004@gmail.com
 - LinkedIn: [linkedin.com/in/virendrasingh-rajpurohit](https://www.linkedin.com/in/virendrasingh-rajpurohit-109b21258)
 - Live work: [bitzaurus.com](https://bitzaurus.com)
-
----
-
-<!-- Optional GitHub stats. Remove if your public activity is light. -->
-![Stats](https://github-readme-stats.vercel.app/api?username=rahulpurohit789&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpurohit789&layout=compact&hide_border=true)
