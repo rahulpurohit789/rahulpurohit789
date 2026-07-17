@@ -4,9 +4,8 @@
 
 > I build AI products from blank page to production, then keep them alive at scale.
 
-I lead a 10-engineer team at a Japan-based startup, taking AI products from idea to production and working directly with founders on architecture, delivery, and the hard debugging. I am AI-native: I design the systems, use AI to move fast, and I am strongest at debugging the places where AI-generated output breaks.
+I lead a team at a Japan-based startup, taking AI products from idea to production and working directly with founders on architecture, delivery, and the hard debugging. I am AI-native: I design the systems, use AI to move fast, and I am strongest at debugging the places where AI-generated output breaks.
 
-Currently open to remote roles with US startups.
 
 ---
 
