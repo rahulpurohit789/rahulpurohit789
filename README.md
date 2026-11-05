@@ -4,7 +4,7 @@
 
 Lead Developer at **WeSee**, leading a team of 10 engineers. I helped shape **[Cascade Index](https://www.cascade-index.com)** from the first idea and built the prototype that helped it raise **US$1M**. One year ago I was an intern.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-retirement_clock_is_live-F2B23A?style=for-the-badge&labelColor=0B0D1A)](https://virendra-portfolio-two.vercel.app)
+[![virendra.wtf](https://img.shields.io/badge/virendra.wtf-retirement_clock_is_live-F2B23A?style=for-the-badge&labelColor=0B0D1A)](https://virendra.wtf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virendrasingh-rajpurohit-109b21258/)
 [![Email](https://img.shields.io/badge/Email-virendrasingh052004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virendrasingh052004@gmail.com)
 
