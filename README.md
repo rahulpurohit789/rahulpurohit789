@@ -1,58 +1,56 @@
-# Virendrasingh Rajpurohit
+<h1 align="left">Virendrasingh Rajpurohit</h1>
 
-### Full-Stack Engineer & AI Product Builder
+**Builder from Mumbai, on the road to founder.**
 
-> I build AI products from blank page to production, then keep them alive at scale.
+Lead Developer at **WeSee**, leading a team of 10 engineers. I helped shape **[Cascade Index](https://www.cascade-index.com)** from the first idea and built the prototype that helped it raise **US$1M**. One year ago I was an intern.
 
-I lead a team at a Japan-based startup, taking AI products from idea to production and working directly with founders on architecture, delivery, and the hard debugging. I am AI-native: I design the systems, use AI to move fast, and I am strongest at debugging the places where AI-generated output breaks.
-
-
----
-
-## What I am building
-
-**[Bitzaurus](https://bitzaurus.com)** — AI prediction-market platform
-Reads real-world news and automatically turns it into live, tradable prediction markets. I built the core engine: a 7-stage LLM + RAG pipeline (ingestion, reasoning, asset mapping, market creation), a "Black Box Engine" that runs it autonomously, and IBM Quantum (QAOA) for asset-basket selection. Contributed to a $1M+ raise.
-
-**[Reverse](https://www.reversetcg.xyz)** — Blockchain gaming platform
-Designed the reward and profitability algorithms and the backend systems for rarity allocation and reward generation.
-
-**Umito** — Real-estate marketplace (prototype)
-Built booking, listing, and marketplace systems, frontend and backend.
+[![Portfolio](https://img.shields.io/badge/Portfolio-retirement_clock_is_live-F2B23A?style=for-the-badge&labelColor=0B0D1A)](https://virendra-portfolio-two.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virendrasingh-rajpurohit-109b21258/)
+[![Email](https://img.shields.io/badge/Email-virendrasingh052004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virendrasingh052004@gmail.com)
 
 ---
 
-## Tech
+### Now building
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+**[Cascade Index](https://www.cascade-index.com)** · Lead · Rust
 
-**Also:** RAG systems, AI agents, IBM Quantum (QAOA), Web3, system design, distributed systems.
+A news-driven index engine for brokers. Point it at a story and it builds one tradable index: constituents, long and short legs, weights, live prices, net exposure and risk signals, all through a single API. Built for finance: audit logs on everything, signed webhooks and controls that fail closed.
 
 ---
 
-## A bit about me
+### Road to founder, in 1 year
 
-- Team Lead at Sector 7 (WeSee), Japan (remote)
-- B.E. Information Technology, University of Mumbai, 2026
-- Adobe Hackathon: Top 0.43% of participants (2025)
-- Tata Imagination Challenge: reached Round 3 (2024)
-- Went from fresh graduate to leading engineers with more experience than me, in under a year.
+| When | What happened | Result |
+| :-- | :-- | :-- |
+| Before | Won my first client as a freelancer and built the online store for [Supriyapa](https://supriyapa.com), a Rajasthani-inspired fashion label | First revenue |
+| Sep 2025 | Joined WeSee as an intern and shipped on EveryX, a consumer trading platform | Day 1 |
+| Dec 2025 | Promoted to Lead Developer, leading 10 engineers and hiring for the team | Intern → Lead in 3 months |
+| 2025 – 26 | Led Tap, a social prediction market (X meets Polymarket) | Found the liquidity problem |
+| 2026 | Helped shape Cascade Index from the first idea, built the prototype in a 58-hour push and pitched it | **US$1M raised** |
+| Next | Founder | In progress |
 
 ---
 
-## Connect
+### What I believe
 
-- Email: virendrasingh052004@gmail.com
-- LinkedIn: [linkedin.com/in/virendrasingh-rajpurohit](https://www.linkedin.com/in/virendrasingh-rajpurohit-109b21258)
-- Live work: [bitzaurus.com](https://bitzaurus.com)
+- **The best founders are the best salespeople.** I can look at a brand and quickly see what tech can earn for it.
+- **Revenue is the best product spec.** Know what someone will pay for and you know what the product has to be.
+- **Every hard problem is a company.** Tap ran out of liquidity. That problem became Cascade.
+- **Speed is a decision.** I'd rather make the call and own it than wait for certainty.
+
+---
+
+### Tools I build with
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AI agents](https://img.shields.io/badge/AI_agents-6E56CF?style=flat-square)
+
+Real-time streaming (SSE) · REST API design · webhooks and HMAC signing · idempotent, auditable systems · fintech and trading systems
+
+---
+
+<sub>Mumbai, India · Thakur College of Engineering & Technology, B.Tech Computer Engineering, 2026</sub>
